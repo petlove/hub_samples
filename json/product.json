@@ -16,7 +16,9 @@
       [ "Brands", "Spree" ],
       [ "Brands", "Open Source" ]
     ],
-    "options": ["color", "size"],
+    "options": {
+      "color": "size"
+    },
     "properties": {
       "material": "cotton",
       "fit": "smart fit"
