@@ -16,9 +16,7 @@
       [ "Brands", "Spree" ],
       [ "Brands", "Open Source" ]
     ],
-    "options": {
-      "color": "size"
-    },
+    "options": ["color", "size"],
     "properties": {
       "material": "cotton",
       "fit": "smart fit"
@@ -35,7 +33,7 @@
         }
       }
     ],
-    "children" :[
+    "variants" :[
       {
         "sku": "SPREE-T-SHIRT-S",
         "price": 39.99,
