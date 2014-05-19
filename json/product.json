@@ -12,9 +12,40 @@
     "meta_keywords": null,
     "shipping_category": "Default",
     "taxons": [
-      [ "Categories",  "Clothes", "T-Shirts" ],
-      [ "Brands", "Spree" ],
-      [ "Brands", "Open Source" ]
+      [
+        {
+          "id": 1,
+          "name": "Categories"
+        },
+        {
+          "id": 2,
+          "name": "Clothes"
+        },
+        {
+          "id": 3,
+          "name": "T-Shirts"
+        }
+      ],
+      [
+        {
+          "id": 4,
+          "name": "Brands"
+        },
+        {
+          "id": 5,
+          "name": "Spree"
+        }
+      ],
+      [
+        {
+          "id": 4,
+          "name": "Brands"
+        },
+        {
+          "id": 6,
+          "Open Source"
+        }
+      ]
     ],
     "options": ["color", "size"],
     "properties": {
