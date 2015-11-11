@@ -64,8 +64,8 @@
       "invoice_number": "420260",
       "invoice_key": "35150510864846000204550020004202601588332323",
       "invoice_date": "25052015 18:34:01.290",
-      "invoice_total_value": 10.00,
-      "invoice_products_value": 8.00,
+      "invoice_total_value": 10.0,
+      "invoice_products_value": 8.0,
       "invoice_cfop": ""
     }
   }
